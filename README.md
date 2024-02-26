@@ -1,5 +1,5 @@
 # React Menu Component
-For the experiment in tree structures
+Little experiment in tree structures
 
 ## Description
 
